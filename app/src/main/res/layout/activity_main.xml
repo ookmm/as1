@@ -11,7 +11,27 @@
     tools:context="com.ookmm.habittracker.MainActivity">
 
     <TextView
+        android:text="@string/choose_a_habit_to_complete"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/chooseHabitTextView"
+        android:layout_alignParentEnd="true" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:layout_below="@+id/chooseHabitTextView"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp"
+        android:id="@+id/chooseHabitListListView" />
+
+    <Button
+        android:text="@string/add_new_habit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/addNewHabitButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
