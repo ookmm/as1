@@ -13,6 +13,7 @@ You can add habits and view them after being added. When you add habit date, the
 LonelyTwitter (https://github.com/joshua2ua/lonelyTwitter)
 StudentPicker (https://github.com/abramhindle/student-picker)
 Lynda.com (https://www.lynda.com/Android-tutorials/Creating-new-note/377485/406775-4.html)
+CMPUT 301 material
 
 
 
