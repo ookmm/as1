@@ -2,4 +2,7 @@
     <string name="app_name">gaylord-HabitTracker</string>
     <string name="choose_a_habit_to_complete">Choose a habit to complete</string>
     <string name="add_new_habit">Add New Habit</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="habit_name_hint">Habit Name</string>
+    <string name="save">Save</string>
 </resources>
